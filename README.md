@@ -7,7 +7,7 @@
 
 #### 2、clone 项目到本地 GOPATH src目录之外的路径下
 ```
-GitHub:   https://github.com/lhg002/go-base.git
+GitHub:   https://github.com/huanguang/go-base.git
 ```
 或
 ```
